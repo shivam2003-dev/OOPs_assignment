@@ -39,7 +39,7 @@ Welcome to the OOPs_assignment wiki!
 ---
    ## Welcome to the OOPs_assignment !
                                       Name : Shivam Kumar 
-                                Roll/Class : CO20350(cse)
+                                
 
 ### Program 1 : [Use of Protected, Public, private Classes](https://replit.com/@shivamkumar57/Programming#1_access_specifier.cpp)
 ---
